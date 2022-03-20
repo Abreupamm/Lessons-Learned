@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(253,251,251);
+    margin: 0%;
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0px;
+    background-color: rgb(73, 36, 85);
+    text-align: center;
+    width: 1366px;
+}
+
+#navegacao {
+    position: fixed;
+    background-color: rgb(153, 122, 163);
+    width: 1366px;
+    top: 38px;
+    text-align: center;
+}
+
+.link_nav {
+    padding-left: 80px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+#titulo {
+    margin: 0px;
+    margin-bottom: 2px;
+    color: aliceblue;
+}
+
+#minha_foto {
+    margin-top: 80px;
+    margin-left: 20px;
+    height: 260px;
+}
+
+#meu_nome {
+    color: rgb(73, 36, 85);
+     padding-top: 5px;
+     padding-left: 40px;
+     position:absolute;
+}
+
+h2 {
+    padding-top: 50px;  
+    display: inline-block;
+    padding-left: 30px;
+    text-align: center;
+}
+
+#foto_nome {
+    display: inline-block;
+    width: 20%;
+    margin-left: 10px;
+}
+
+a {
+    color: aliceblue;
+}
+
+.artigo {
+    width: 80%;
+    font-size: 20px;
+    margin-left: 200px;
+    }
+
+.aprendizado{
+    background-color: rgb(153, 122, 163);
+    padding-bottom: 20px;
+    margin-top: 40px;
+   width: 1366px;
+}
+
+aside {
+   float: left;
+    width: 100px;
+    height:800px;
+    padding-top: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(73, 36, 85);
+    color: aliceblue;
+    font-family: Verdana;
+    font-style: initial;
+    text-align: center;
+    line-height: 25px;
+}
+
+
+.lado-esquerdo {
+    display: inline-block;
+}
+
+.lado-direito {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#tabela {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 50%;
+    text-align: left;
+}
+
+.borda {
+    border: 1px solid rgb(73, 36, 85);
+}
+
+#tabela {
+    padding-left: 600px;
+}
+#rodape {
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    background-color: rgb(73, 36, 85);
+    text-align: center;
+    width: 1366px;
+}
